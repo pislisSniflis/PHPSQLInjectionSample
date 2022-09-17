@@ -2,7 +2,7 @@ Peringatan
 
 1. RunCloud Documentation: [Links] (https://runcloud.io/docs/guide/server-management/getting-started)
 2. Create a Deployment key: [Links] (https://manage.runcloud.dev/servers/642/deploymentkeys)
-3. [link](https://runcloud.io/knowledgebase/articles/web-application/how-do-i-use-a-deployment-key#:~:text=In%20RunCloud%20panel%2C%20head%20to key%20to%20the%20GitHub%20respository "How do I use a Deployment Key:")
+3. [How do I use a Deployment Key:](https://runcloud.io/knowledgebase/articles/web-application/how-do-i-use-a-deployment-key#:~:text=In%20RunCloud%20panel%2C%20head%20to key%20to%20the%20GitHub%20respository)
 4. [Go to the Support Web Site](https://support.west-wind.com)
 
 Step to use a Git Deployment
