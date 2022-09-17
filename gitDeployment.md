@@ -20,3 +20,5 @@ Read [this.](https://runcloud.io/docs/guide/cheat-sheets/nginx). However you can
 
 **Assigning Lightsail Specific Resources**
 Refer to this [link](https://www.webhostingforbeginners.net/how-to-setup-aws-iam-lightsail-user-and-permissions/)
+
+[DNS Checker](https://dnschecker.org/#NS/setajul.xyz)
