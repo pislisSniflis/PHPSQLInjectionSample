@@ -13,3 +13,7 @@
 **Lightsail documentation**
 
 Use case and Lightsail [pricing](https://aws.amazon.com/lightsail/pricing/)
+
+**NGINX Cheat-Sheet**
+
+Read [this.](https://runcloud.io/docs/guide/cheat-sheets/nginx). However you can have a look to the RunCloud [Cheat Sheet for Apache.](https://runcloud.io/docs/guide/cheat-sheets/apache).
