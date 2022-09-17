@@ -9,3 +9,6 @@
 3. Choose a GIT option.
 4. Insert every detail.
 5. Get a Webhook from the RunCloud panel and update at the Github Repository Webhook option.
+
+**Lightsail documentation**
+Use case and Lightsail [pricing](https://aws.amazon.com/lightsail/pricing/)
