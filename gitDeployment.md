@@ -24,4 +24,8 @@ Refer to this [link](https://www.webhostingforbeginners.net/how-to-setup-aws-iam
 
 **Permission boundaries**
 
-This policy can set [specific permission for specific resources](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_boundaries.html?icmpid=docs_iam_console)
+1. This policy can set [specific permission for specific resources](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_boundaries.html?icmpid=docs_iam_console)
+2. Refer to this [link](https://www.webhostingforbeginners.net/how-to-setup-aws-iam-lightsail-user-and-permissions/)
+
+[DNS Checker](https://dnschecker.org/#NS/setajul.xyz)
+
