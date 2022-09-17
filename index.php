@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title> A vulnerable page with SQL Injection vulnerability.</title>
+        <title>SQL Injection vulnerability demo.</title>
         <meta content="text/html; charset=utf-8" />
     </head>
 <body>
