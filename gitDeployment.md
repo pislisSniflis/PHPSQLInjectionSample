@@ -3,7 +3,7 @@ Peringatan
 1. RunCloud Documentation: [Links] (https://runcloud.io/docs/guide/server-management/getting-started)
 2. Create a Deployment key: [Links] (https://manage.runcloud.dev/servers/642/deploymentkeys)
 3. How do I use a Deployment Key: https://runcloud.io/knowledgebase/articles/web-application/how-do-i-use-a-deployment-key#:~:text=In%20RunCloud%20panel%2C%20head%20to,key%20to%20the%20GitHub%20respository.
-4. #Heading 1 link [Heading link](https://github.com/pandao/editor.md "Heading link")
+#Heading 1 link [Heading link](https://github.com/pandao/editor.md "Heading link")
 
 Step to use a Git Deployment
 1. Create a Web Application.
