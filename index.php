@@ -1,11 +1,16 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> A vulnerable page with SQL Injection vulnerability.</title>
+        <meta content="text/html; charset=utf-8" />
+    </head>
 <body>
 <?php
     if(isset($_POST['login']))
     { // this is a comment
         $username = $_POST['username'];
         $password = $_POST['password'];
-        $con = mysqli_connect('localhost','tajul','huzaifah019','sample');
+        $con = mysqli_connect('localhost','your_database_username','your_database_password','sample');
         $result = mysqli_query($con, "SELECT * FROM `users` WHERE username='$username' AND password='$password'");
         if(mysqli_num_rows($result) == 0)
             echo 'Invalid username or password';
