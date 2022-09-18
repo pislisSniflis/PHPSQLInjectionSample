@@ -19,6 +19,13 @@ Use case and Lightsail [pricing](https://aws.amazon.com/lightsail/pricing/)
 Read [this.](https://runcloud.io/docs/guide/cheat-sheets/nginx). However you can have a look to the RunCloud [Cheat Sheet for Apache.](https://runcloud.io/docs/guide/cheat-sheets/apache).
 
 **Assigning Lightsail Specific Resources**
+
 Refer to this [link](https://www.webhostingforbeginners.net/how-to-setup-aws-iam-lightsail-user-and-permissions/)
 
+**Permission boundaries**
+
+1. This policy can set [specific permission for specific resources](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_boundaries.html?icmpid=docs_iam_console)
+2. Refer to this [link](https://www.webhostingforbeginners.net/how-to-setup-aws-iam-lightsail-user-and-permissions/)
+
 [DNS Checker](https://dnschecker.org/#NS/setajul.xyz)
+
