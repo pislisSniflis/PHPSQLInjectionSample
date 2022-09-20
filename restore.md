@@ -1,4 +1,4 @@
-##Just copy this script##
+<h1>Just copy this script</h1>
 <br>mysql -u root -p</br>
 <br>create database sample;</br>
 <br>connect sample;</br>
