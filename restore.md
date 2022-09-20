@@ -1,5 +1,5 @@
 ##Just copy this script##
-mysql -u root -p
+<br>mysql -u root -p</br>
 create database sample;
 connect sample;
 create table users(username VARCHAR(100),password VARCHAR(100));
