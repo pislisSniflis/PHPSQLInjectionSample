@@ -10,7 +10,7 @@
     { // this is a comment
         $username = $_POST['username'];
         $password = $_POST['password'];
-        $con = mysqli_connect('localhost','your_database_username','your_database_password','sample');
+        $con = mysqli_connect('localhost','tajul','^lyVz}t5','sqlidb');
         $result = mysqli_query($con, "SELECT * FROM `users` WHERE username='$username' AND password='$password'");
         if(mysqli_num_rows($result) == 0)
             echo 'Invalid username or password';
